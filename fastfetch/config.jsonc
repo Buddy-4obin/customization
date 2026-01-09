@@ -1,0 +1,32 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "source": "C:/Users/Ansh/Documents/hello.txt",
+    "padding": {
+      "top": 2,
+      "left": 2
+    }
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "memory",
+    "break",
+    "colors"
+  ]
+}
